@@ -1,0 +1,11 @@
+# YOLOv8 Dataset Configuration File
+path: C:\Users\ankit\Desktop\Aug Resits\Data Science\CE888-data-resit\yolo_surgical_dataset # Absolute path to dataset root
+train: train/images # relative to 'path'
+val: val/images # relative to 'path'
+
+# Classes
+names:
+  0: Bistoury
+  1: Dissection Forceps
+  2: Straight Scissors
+  3: Curved Scissor
