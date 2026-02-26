@@ -10,7 +10,7 @@ imgsz: 640
 save: true
 save_period: -1
 cache: false
-device: cpu
+device: null
 workers: 8
 project: CE888_Runs
 name: yolov8s_run1
@@ -106,4 +106,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: runs\detect\CE888_Runs\yolov8s_run1
+save_dir: C:\Users\ankit\Downloads\cv_train_model\Computer_Vision\runs\detect\CE888_Runs\yolov8s_run1
