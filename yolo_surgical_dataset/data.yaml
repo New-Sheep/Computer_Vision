@@ -1,7 +1,7 @@
 # YOLOv8 Dataset Configuration File
-path: C:\Users\ankit\Desktop\Aug Resits\Data Science\CE888-data-resit\yolo_surgical_dataset # Absolute path to dataset root
-train: train/images # relative to 'path'
-val: val/images # relative to 'path'
+path: C:\Users\ankit\Downloads\cv_train_model\Computer_Vision\yolo_surgical_dataset
+train: train/images 
+val: val/images 
 
 # Classes
 names:
